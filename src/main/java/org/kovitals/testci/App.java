@@ -1,4 +1,4 @@
-package org.kovitals.test-ci;
+package org.kovitals.testci;
 
 /**
  * Hello world!
