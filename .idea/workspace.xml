@@ -51,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/org/kovitals/testci/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5586207">
-              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -655,7 +655,7 @@
       <created>1434467378574</created>
       <option name="number" value="Default" />
       <updated>1434467378574</updated>
-      <workItem from="1434467379945" duration="1282000" />
+      <workItem from="1434467379945" duration="1458000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1434467479958</created>
@@ -669,11 +669,17 @@
       <option name="project" value="LOCAL" />
       <updated>1434468541742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add failed unit test for check travis">
+      <created>1434468913478</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1434468913478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1282000" />
+    <option name="totallyTimeSpent" value="1458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -710,7 +716,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="add failed unit test for check travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="add failed unit test for check travis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -752,7 +759,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/org/kovitals/testci/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5586207">
-          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
